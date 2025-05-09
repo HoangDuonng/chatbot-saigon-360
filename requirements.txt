@@ -1,0 +1,11 @@
+langchain
+langchain-ollama
+langchain-chroma
+pandas
+
+Flask
+transformers
+torch 
+torchvision
+torchaudio
+peft
